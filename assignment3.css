@@ -1,0 +1,18 @@
+.unguessed{
+	font-size: 150%;
+	border-style:solid;border-width:1px;border-color:black;
+	background-color:lightgrey;
+	padding: 2px;
+}
+
+.guessed{
+	font-weight:bold;
+	font-size: 150%;
+	border-style:solid;border-width:1px;border-color:black;
+	background-color: darkgrey;
+	padding:2px;
+}
+
+span{font-size:125%;}
+
+#result{font-size:125%;}
